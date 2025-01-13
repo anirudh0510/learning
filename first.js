@@ -13,3 +13,5 @@
 
  const footer="footer added to the website";
  console.log(footer);
+
+ console.log("Latest update done !");
